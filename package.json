@@ -1,10 +1,7 @@
 {
-  "name": "awh-project",
-  "version": "1.0.0",
-  "devDependencies": {
-    "wrangler": "^3.0.0"
-  },
-  "scripts": {
-    "deploy": "wrangler deploy"
+  "name": "layarbokep",
+  "compatibility_date": "2026-04-14",
+  "assets": {
+    "directory": "./" 
   }
 }
